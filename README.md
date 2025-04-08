@@ -51,6 +51,20 @@
 
 ---
 
+## 🔧 NLP Tools & Research
+
+### 🧩 MWE Tool (Multiword Expression)
+- Designed to identify and annotate **multiword expressions** in annotated segments
+- Supports linguistic researchers by enabling deeper syntactic and semantic analysis
+- Integrates with a larger semantic annotation workflow
+
+### 🧠 NER Tool (Named Entity Recognition)
+- Built a tool for detecting **named entities** (persons, organizations, locations, etc.)
+- Aims to improve information extraction and text understanding within semantic pipelines
+- Fully integrated with backend systems for processing and visualization
+
+---
+
 ## 🏆 Highlights
 
 - 📜 Published a research paper on **Smart Energy Electricity Meter** in IJSREM
