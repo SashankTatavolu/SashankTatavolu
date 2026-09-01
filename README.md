@@ -1,8 +1,17 @@
 <h1 align="center">Hey there! 👋 I'm Sashank Tatavolu</h1>
 
 <p align="center">
-  🚀 Full Stack Developer | 🤖 AI & NLP Explorer | 📱 Flutter Enthusiast <br>
-  🧠 Building AI-powered applications, intelligent agents, and scalable digital solutions
+  🚀 Full Stack Developer | 🤖 AI & NLP Engineer | 🧠 AI Explorer <br>
+  Building intelligent systems, AI-powered applications, and scalable solutions for real-world problems
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sashanktatavolu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sashanktatavolu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -12,31 +21,34 @@
 * 🔭 Currently working at **LTRC, IIIT-Hyderabad** as a **Full Stack Developer (MERN & Flutter)**
 * 🤖 Exploring **AI Agents, NLP, LLMs, Generative AI, and intelligent automation**
 * 🧠 Experienced in building **AI/NLP tools, semantic processing systems, and full-stack applications**
+* 🔬 Co-author of a research paper on **SAVI — Semantic Annotation Validation Interface**, published at **DMR 2026 @ LREC 2026**
 * 💡 I enjoy turning complex real-world problems into practical, scalable software solutions
-* 🌱 Currently expanding my skills in **AI Engineering, Agentic AI, NLP, and Edge AI**
+* 🌱 Currently expanding my expertise in **AI Engineering, Agentic AI, NLP, RAG, and Edge AI**
 * 📫 Reach me at: [sashanktatavolu@gmail.com](mailto:sashanktatavolu@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### 💻 Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
 
-### AI, NLP & Data
+### 🤖 AI, NLP & Intelligent Systems
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat)
 ![LLM](https://img.shields.io/badge/LLM-FF6F00?style=flat)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=flat)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-00A67E?style=flat)
+![Semantic Processing](https://img.shields.io/badge/Semantic%20Processing-6A5ACD?style=flat)
+![ASR](https://img.shields.io/badge/ASR-008080?style=flat)
 
-### Databases, Cloud & Tools
+### 🗄️ Databases, Cloud & Tools
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
@@ -47,115 +59,219 @@
 
 ---
 
-## 🧠 Featured Projects
+# 🧠 Featured Projects
 
-### 🥗 Aahaar Vidhi
+## 🔬 SAVI — Semantic Annotation Validation Interface
 
-An AI-powered project focused on **Indian dietary and food knowledge**, combining structured information with intelligent processing to make traditional dietary concepts more accessible.
+**SAVI (Web-based Multilayered Semantic Annotation Validation Interface)** is a web-based platform designed for validating and correcting **Universal Semantic Representation (USR)** annotations across multiple interconnected semantic layers.
 
-* 🔍 Designed systems for processing and organizing food and dietary information
-* 🧠 Explored AI/NLP techniques for understanding and structuring textual knowledge
-* 📚 Built with scalability and knowledge accessibility in mind
-* 🤖 Part of my broader exploration into applying AI to real-world knowledge systems
+Developed at the **Language Technologies Research Centre (LTRC), IIIT-Hyderabad**.
+
+* 🧠 Built an interface for **multilayer semantic annotation validation**
+* 🗂️ Organized semantic information through **structured layer-wise interfaces**
+* ✏️ Implemented **constraint-aware editing mechanisms**
+* 📚 Integrated a **multilingual concept dictionary** for sense-level consistency
+* 👥 Added **role-based review workflows** for collaborative annotation validation
+* 📊 Implemented **dependency-based visualization** for semantic interpretation
+* 🇮🇳 Integrated **Hindi text generation** to support interpretation and correction
+* ⚙️ Backend: **Flask**
+* 📱 Frontend: **Flutter**
+* 🗄️ Database: **PostgreSQL**
+* 🔬 Focus areas: **NLP, Semantic Representation, Computational Linguistics, Annotation Systems**
+
+### 📄 Research Publication
+
+**SAVI: Web-based Multilayered Semantic Annotation Validation Interface**
+
+Published in the **Proceedings of the Seventh International Workshop on Designing Meaning Representations (DMR 2026) @ LREC 2026**, pages 81–90.
+
+**Authors:** Sashank Tatavolu, Soma Paul, Pratibha Rani, Sukhada Sukhada
+
+🔗 [Read the paper on ACL Anthology](https://aclanthology.org/2026.dmr-1.7/)
 
 ---
 
-### 📚 Bio E-Reader
+## 🥗 Aahaar Vidhi
 
-A digital reading platform designed to improve the way users interact with **educational and biological content**.
+An intelligent knowledge and content-processing project focused on **Indian dietary and food-related knowledge**.
 
-* 📖 Built an interactive **e-reader experience** for educational content
-* 🧩 Worked on structured content extraction and organization from documents
-* 🔎 Integrated intelligent content-processing capabilities
-* 📱 Designed the system with a focus on accessibility and user-friendly interaction
+* 📚 Worked with structured and unstructured domain knowledge
+* 🧠 Applied **NLP and semantic processing** techniques
+* 🔎 Explored intelligent information organization and retrieval
+* 🧩 Worked on transforming complex textual knowledge into structured information
+* 🤖 Designed with future **AI-powered knowledge interaction** in mind
+* 🌐 Focused on making domain-specific knowledge more accessible through technology
+
+**Focus:** NLP • Knowledge Systems • AI • Information Processing
+
+---
+
+## 📚 Bio E-Reader
+
+A digital reading platform designed to improve how users interact with **educational and biological content**.
+
+* 📖 Built an interactive **e-reader experience**
+* 📄 Worked with document processing and structured content extraction
+* 🧩 Organized educational content into meaningful structures
+* 🔎 Developed intelligent content-processing workflows
+* 📱 Designed application experiences for improved accessibility
 * ⚙️ Worked across frontend, backend, document processing, and application architecture
 
+**Focus:** EdTech • Document Processing • NLP • Full Stack Development • Digital Learning
+
 ---
 
-### 🤖 CareConnect AI
+## 🤖 CareConnect AI
 
-An **AI-powered agentic application** designed to provide intelligent conversational assistance and automate user interactions.
+An **AI-powered agentic application** focused on conversational assistance and intelligent automation.
 
 * 🧠 Built around **LLM-powered conversational intelligence**
-* 🤖 Explored **AI agent workflows** for handling user requests
-* 🔄 Designed automated interactions and decision-making workflows
-* 🛠️ Focused on combining **AI + backend services + automation**
-* 💬 Demonstrates my transition from traditional application development toward **AI Engineering and Agentic AI**
+* 🤖 Explored **AI agent architectures and workflows**
+* 🔄 Designed automated workflows for handling user requests
+* 💬 Integrated conversational interfaces with backend services
+* ⚙️ Combined **LLMs, APIs, automation, and application logic**
+* 🧩 Explored how AI agents can reason through tasks and interact with external systems
+* 🚀 Represents my transition from traditional application development toward **AI Engineering and Agentic AI**
+
+**Focus:** AI Agents • LLMs • Generative AI • Automation • Backend Integration
 
 ---
 
-## 🔧 NLP & AI Systems
+# 🔧 NLP & AI Systems
 
-### 🧩 MWE Tool — Multiword Expression
+## 🧩 MWE Tool — Multiword Expression
 
-* Designed a tool to identify and annotate **multiword expressions** in linguistic segments
-* Supports researchers in syntactic and semantic analysis
-* Integrated with a larger semantic annotation workflow
+A linguistic annotation tool designed to identify and annotate **Multiword Expressions (MWEs)**.
 
-### 🧠 NER Tool — Named Entity Recognition
+* 🔍 Detects and annotates multiword expressions in linguistic segments
+* 🧠 Supports syntactic and semantic analysis
+* 📚 Helps linguistic researchers analyze complex expressions
+* 🔗 Integrated with a larger semantic annotation workflow
 
-* Built a system for detecting **named entities** such as persons, organizations, and locations
-* Supports information extraction and semantic understanding
-* Integrated backend processing with visualization and annotation workflows
-
-### 🗣️ Speech & Semantic Processing
-
-* Worked with **Automatic Speech Recognition (ASR)** systems
-* Improved speech-processing workflows for field deployment
-* Worked with **Universal Semantic Representation (USR)** and graph-based semantic visualization
-* Built tools supporting linguistic annotation and semantic analysis
+**Focus:** NLP • Computational Linguistics • Semantic Annotation
 
 ---
 
-## 💼 Other Projects
+## 🧠 NER Tool — Named Entity Recognition
 
-### 🔹 EMRI Project
+A system for detecting and processing **named entities** within text.
+
+* 👤 Detects persons
+* 🏢 Detects organizations
+* 📍 Detects locations
+* 🧠 Supports information extraction and semantic understanding
+* ⚙️ Integrated backend processing with visualization and annotation workflows
+
+**Focus:** NLP • NER • Information Extraction • Semantic Processing
+
+---
+
+## 🗣️ Speech & Semantic Processing
+
+Worked on systems combining **speech recognition and semantic representation**.
+
+* 🎙️ Worked with **Automatic Speech Recognition (ASR)**
+* 📈 Improved speech-processing workflows for real-world deployment
+* 🧠 Worked with **Universal Semantic Representation (USR)**
+* 📊 Developed graph-based semantic visualization
+* 🌐 Worked with multilingual linguistic and semantic processing
+* 🔗 Connected speech processing with downstream semantic workflows
+
+---
+
+# 💼 Other Projects
+
+## 🔹 EMRI Project
 
 * Built a **GraphQL API integrated with AWS S3**
 * Developed an Android application integrating **speech recognition**
-* Worked on improving ASR accuracy for real-world field deployment
+* Worked on improving ASR accuracy for field deployment
+* Designed backend and application workflows for real-world usage
 
-### 🔹 Language Communicator Tool
-
-* Developed an interface for correcting **Universal Semantic Representation (USR)** forms
-* Enabled chapter uploads, semantic correction, and graph-based visualization
-* Tech stack: **Flutter, Python, PostgreSQL**
-
-### 🔹 Taskly — SaaS Task Management System
-
-* Built a full-featured **MERN stack task management platform**
-* Implemented **JWT authentication and role-based access**
-* Developed CRUD operations, dashboards, responsive UI, and secure APIs
+**Tech:** GraphQL • AWS S3 • Android • Speech Recognition
 
 ---
 
-## 🎯 Current Focus
+## 🔹 Language Communicator Tool
 
-I'm currently moving deeper into **AI Engineering**, with a particular interest in:
+A platform for working with **Universal Semantic Representation (USR)** and semantic annotation.
 
-* 🤖 **AI Agents & Agentic AI**
-* 🧠 **Large Language Models (LLMs)**
-* 🔤 **Natural Language Processing**
-* ✨ **Generative AI**
-* ⚙️ **AI Automation & Workflows**
-* 📚 **RAG & Knowledge Systems**
-* 🗣️ **Speech & Language Technologies**
-* 📱 **AI-powered Applications**
-* 🔌 **Edge AI & Intelligent Systems**
+* 📚 Enabled chapter uploads
+* ✏️ Supported semantic correction
+* 🧠 Worked with USR-based representations
+* 📊 Added graph-based visualization
+* 🗄️ PostgreSQL backend
+* 📱 Flutter frontend
 
-My goal is to combine my **full-stack engineering experience** with **AI/ML capabilities** to build intelligent systems that solve real-world problems.
+**Tech:** Flutter • Python • PostgreSQL • NLP • USR
 
 ---
 
-## 🏆 Highlights
+## 🔹 Taskly — SaaS Task Management System
 
-* 📜 Published a research paper on **Smart Energy Electricity Meter** in IJSREM
-* 🧠 Attended ISRO's webinar on **Space Technology**
-* 🎯 National-level quiz finalist — **Dhirubhai Ambani Quiz 2016**
+A full-featured **MERN stack task management platform**.
+
+* 🔐 JWT authentication
+* 👥 Role-based access
+* 📊 Dashboard-based workflow
+* ✏️ CRUD operations
+* 🔒 Secure API architecture
+* 📱 Responsive user interface
+
+**Tech:** MongoDB • Express.js • React • Node.js • JWT
 
 ---
 
-## 📜 Certifications
+# 🎯 What I'm Currently Exploring
+
+I'm currently moving deeper into **AI Engineering**, combining my experience in full-stack development and NLP with modern AI technologies.
+
+### 🤖 AI & Machine Intelligence
+
+* AI Agents
+* Agentic AI
+* Large Language Models
+* Generative AI
+* Retrieval-Augmented Generation (RAG)
+* AI Automation
+* Intelligent Workflows
+
+### 🧠 NLP & Language Technology
+
+* Natural Language Processing
+* Semantic Representation
+* Information Extraction
+* Named Entity Recognition
+* Multiword Expressions
+* Speech Recognition
+* Multilingual NLP
+* Knowledge Representation
+
+### ⚙️ Engineering
+
+* AI-powered Full Stack Applications
+* API & Backend Architecture
+* Scalable Systems
+* Cloud Integration
+* Docker & Containerization
+* Database Design
+* Edge AI
+
+---
+
+# 🏆 Highlights
+
+* 🔬 **Research Publication:** Co-author of *SAVI: Web-based Multilayered Semantic Annotation Validation Interface*
+* 📄 Published in **DMR 2026 @ LREC 2026**
+* 🧠 Working in **Language Technologies & NLP** at LTRC, IIIT-Hyderabad
+* 📜 Published research paper on **Smart Energy Electricity Meter** in IJSREM
+* 🚀 Building projects around **AI Agents, NLP, semantic systems, and intelligent applications**
+* 🛰️ Attended ISRO's webinar on **Space Technology**
+* 🏅 National-level quiz finalist — **Dhirubhai Ambani Quiz 2016**
+
+---
+
+# 📜 Certifications
 
 * ✅ Software Engineering Job Simulation
 * ✅ Python Bootcamp — Udemy
@@ -163,15 +279,43 @@ My goal is to combine my **full-stack engineering experience** with **AI/ML capa
 
 ---
 
-## 🌐 Connect with Me
+# 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sashanktatavolu/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sashanktatavolu&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Sashanktatavolu)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sashanktatavolu&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sashanktatavolu/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sashanktatavolu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:sashanktatavolu@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad."</i><br>
   — Cory House
+</p>
+
+<p align="center">
+  ⭐ If you find my work interesting, feel free to explore my repositories!
 </p>
